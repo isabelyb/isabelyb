@@ -33,7 +33,8 @@
 </p>
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
-- Writing in <a href="http://tangaritas.com/">tangaritas.com</a>
 - Talking and sharing in <a href="https://twitter.com/isa_yepes">Twitter</a>
 - And know a little more about my work in <a href="https://www.linkedin.com/in/isabely/">Linkedin</a>
-
+- Writing in <a href="http://tangaritas.com/">tangaritas.com</a>
+- <a href="https://public.tableau.com/app/profile/isabelyb">Tableau</a>
+- <a href="https://www.kaggle.com/isabelyepes">Kaggle</a>
