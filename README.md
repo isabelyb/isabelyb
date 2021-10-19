@@ -1,15 +1,14 @@
 ### Hi there 👋, I am Isabel
 
 
+<!--  - 🔭 I’m currently working on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning SQL - Python - Programming - Data Science
+- 👯 I’m looking to collaborate on environment conservationist and citizen science projects.
+- 💬 Ask me about birds, and whatever you want, I love to investigate and collaborate.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love Birds🐦 - I am Pharmacist 👩‍🔬
+- ⚡ Fun facts: I love Birds🐦 - I am Pharmacist👩‍🔬
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
