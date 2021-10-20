@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on education, environment conservationist, and citizen science projects.
 - 💬 Ask me about birds, and whatever you want, I love to investigate and collaborate.
 - 😄 Pronouns: She/Her
-- ⚡ Fun facts: I love Birds🐦 - I am Pharmacist👩‍🔬
+- ⚡ Fun facts: I love Birds🐦 - I am a Pharmacist👩‍🔬
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
