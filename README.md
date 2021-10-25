@@ -37,7 +37,7 @@
 - Writing in <a href="http://tangaritas.com/">tangaritas.com</a>
 - <a href="https://public.tableau.com/app/profile/isabelyb">Tableau</a>
 - <a href="https://www.kaggle.com/isabelyepes">Kaggle</a>
-- <a href="https://www.hackerrank.com/Isabely">HakerRank</a>
+- <a href="https://www.hackerrank.com/Isabely">HackerRank</a>
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
