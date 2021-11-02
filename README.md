@@ -23,10 +23,10 @@
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?&style=for-the-badge&logo=Google-Analytics&logoColor=white"  alt="Google Analitycs" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?&style=for-the-badge&logo=Google-Sheets&logoColor=white"  alt="Sheets" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?&style=for-the-badge&logo=Microsoft-Excel&logoColor=white"  alt="Excel" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LibreOffice-18A303?&style=for-the-badge&logo=LibreOffice&logoColor=white"  alt="LibreOfficeCalc" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask&logoColor=white"  alt="Flask" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LibreOffice-18A303?&style=for-the-badge&logo=LibreOffice&logoColor=white"  alt="LibreOfficeCalc" />&nbsp;&nbsp; 
+<!--    <img src="https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask&logoColor=white"  alt="Flask" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white"  alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"  alt="MongoDB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"  alt="MongoDB" />&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
