@@ -53,7 +53,7 @@
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isabelyb&theme=default&show_icons=true&hide=contribs", style="width:50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelyb&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelyb&layout=compact", style="width:38%">
 </p>
 <p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=isabelyb/isabelyb" />
