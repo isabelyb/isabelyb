@@ -50,5 +50,13 @@
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=isabelyb/isabelyb" />
 </p>
 
+---
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=isabelyb&theme=default&show_icons=true&hide=contribs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelyb&layout=compact">
+</p>
+<p align="center">
+  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=isabelyb/isabelyb" />
+</p>
 
 
