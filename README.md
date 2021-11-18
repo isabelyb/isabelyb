@@ -35,9 +35,9 @@
 - Talking and sharing in <a href="https://twitter.com/isa_yepes">Twitter</a>
 - And know a little more about my work in <a href="https://www.linkedin.com/in/isabely/">Linkedin</a>
 - Writing in <a href="http://tangaritas.com/">tangaritas.com</a>
-- <a href="https://public.tableau.com/app/profile/isabelyb">Tableau</a>
-<!-- - <a href="https://www.kaggle.com/isabelyepes">Kaggle</a>
-- <a href="https://www.hackerrank.com/Isabely">HackerRank</a> -->
+- Playing at <a href="https://www.hackerrank.com/Isabely">HackerRank</a> and <a href="https://public.tableau.com/app/profile/isabelyb">Tableau</a>.
+<!-- - <a href="https://www.kaggle.com/isabelyepes">Kaggle</a>  -->
+
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 
