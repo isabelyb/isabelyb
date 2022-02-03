@@ -4,7 +4,7 @@
 <!--  - 🔭 I’m currently working on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
-- 🌱 I’m currently learning SQL - Python - Programming - Data Science
+- 🌱 I’m currently learning SQL - Python - Programming - Data Science - QA
 - 👯 I’m looking to collaborate on education, environment conservationist, and citizen science projects.
 - 💬 Ask me about birds, and whatever you want, I love to investigate and collaborate.
 - 😄 Pronouns: She/Her
