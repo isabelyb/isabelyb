@@ -11,7 +11,7 @@ I love to collaborate in the entire product development cycle as an excellent wa
 - 🌱 I’m currently learning SQL - Python - Postgres - QA
 - 👯 I am looking for my first job position in the tech world, and I am open to the opportunity to collaborate on a project with impact and stimulating challenges
 - 😄 Pronouns: She/Her
-- ⚡ Fun facts: I love Birds🐦 - I am a Pharmacist pivot into the teach world👩‍🔬
+- ⚡ Fun facts: I am a Pharmacist pivoting to the tech world - I love Birds🐦
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
