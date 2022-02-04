@@ -13,7 +13,6 @@ I love to collaborate in the entire product development cycle as an excellent wa
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"  alt="Python" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white"  alt="Pandas" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?&style=for-the-badge&logo=NumPy&logoColor=white"  alt="NumPy" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white"  alt="Jupyter" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?&style=for-the-badge&logo=Google-Sheets&logoColor=white"  alt="Sheets" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
