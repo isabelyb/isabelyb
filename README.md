@@ -19,10 +19,10 @@ I love to collaborate in the entire product development cycle as an excellent wa
   <img src="https://img.shields.io/badge/pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white"  alt="Pandas" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?&style=for-the-badge&logo=NumPy&logoColor=white"  alt="NumPy" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white"  alt="Jupyter" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?&style=for-the-badge&logo=Google-Colab&logoColor=white"  alt="Colab" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?&style=for-the-badge&logo=Google-Sheets&logoColor=white"  alt="Sheets" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Lubuntu%20-0068C8.svg?&style=for-the-badge&logo=lubuntu&logoColor=white" alt="Lubuntu" />&nbsp;&nbsp;
 &nbsp;&nbsp;  
 </p>
 
