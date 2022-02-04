@@ -23,10 +23,9 @@ I love to collaborate in the entire product development cycle as an excellent wa
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
 - Sharing in <a href="https://twitter.com/isa_yepes">Twitter</a>
-- And know a little more about my work in <a href="https://www.linkedin.com/in/isabely/">Linkedin</a>
 - Playing at <a href="https://www.hackerrank.com/Isabely">HackerRank</a>.
-- Writing about birds in <a href="http://tangaritas.com/">tangaritas.com</a>
-
+- And know a little more about my work in <a href="https://www.linkedin.com/in/isabely/">Linkedin</a>
+- Or if your like birds, writing about birds in <a href="http://tangaritas.com/">tangaritas.com</a>
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 
