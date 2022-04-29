@@ -4,8 +4,7 @@ I worked as a pharmacist for several years and learned about manufacturing proce
 
 I love to collaborate in the entire product development cycle as an excellent way to see the big picture, contribute to solutions, and discover new things.
 
-- 🌱 I’m currently learning SQL - Python - Postgres - QA
-- 💃 I am looking for my first job position in the tech world, and I am open to the opportunity to collaborate on a project with impact and stimulating challenges
+- 🌱 I’m currently working as a QA Automation -learning Typescript - Gherkin - Cucumber
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: I am a Pharmacist pivoting to the tech world - I love Birds🐦
 
