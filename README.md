@@ -4,7 +4,7 @@ I worked as a pharmacist for several years and learned about manufacturing proce
 
 I love to collaborate in the entire product development cycle as an excellent way to see the big picture, contribute to solutions, and discover new things.
 
-- 🌱 I’m currently working as a QA Automation -learning Typescript - Gherkin - Cucumber
+- 🌱 I’m currently working as a QA Automation - learning TypeScript - Gherkin - Cucumber - Playwright
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: I am a Pharmacist pivoting to the tech world - I love Birds🐦
 
