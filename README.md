@@ -9,10 +9,6 @@ I love to collaborate in the entire product development cycle as an excellent wa
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"  alt="Python" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white"  alt="Pandas" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white"  alt="Jupyter" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?&style=for-the-badge&logo=Google-Sheets&logoColor=white"  alt="Sheets" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Lubuntu%20-0068C8.svg?&style=for-the-badge&logo=lubuntu&logoColor=white" alt="Lubuntu" />&nbsp;&nbsp;
@@ -20,8 +16,6 @@ I love to collaborate in the entire product development cycle as an excellent wa
 </p>
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
-- Sharing in <a href="https://twitter.com/isa_yepes">Twitter</a>
-- Playing at <a href="https://www.hackerrank.com/Isabely">HackerRank</a>.
 - And know a little more about my work in <a href="https://www.linkedin.com/in/isabely/">Linkedin</a>
 - Or if your like birds, writing about birds in <a href="http://tangaritas.com/">tangaritas.com</a>
 
