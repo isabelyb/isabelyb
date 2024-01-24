@@ -6,7 +6,6 @@ I love to collaborate in the entire product development cycle as an excellent wa
 
 - 🌱 I’m currently working as a QA Automation - learning TypeScript - Gherkin - Cucumber - Playwright
 - 😄 Pronouns: She/Her
-- ⚡ Fun facts: I am a Pharmacist pivoting to the tech world - I love Birds🐦
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 <p align="center">
