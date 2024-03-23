@@ -1,10 +1,8 @@
 ### Hi there 👋, I am Isabel
 
-I worked as a pharmacist for several years and learned about manufacturing processes, quality assurance, and documentation. 
+I am an ISTQB Certified software tester skilled in both manual and automation testing, with experience in working within multidisciplinary teams and applying agile methodologies. For manual testing management, I've utilized tools such as Postman, ClickUp, Jira, and Spreadsheets. In automation, I am keen on learning and applying new frameworks and tools, including Playwright, Cucumber, Mocha, and WebdriverIO.
 
-I love to collaborate in the entire product development cycle as an excellent way to see the big picture, contribute to solutions, and discover new things.
-
-- 🌱 I’m currently working as a QA Automation - learning TypeScript - Gherkin - Cucumber - Playwright
+- 🌱 I’m currently working as a QA - learning Js - Ts - Gherkin - Cucumber - Playwright - WebdriverIO
 - 😄 Pronouns: She/Her
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
